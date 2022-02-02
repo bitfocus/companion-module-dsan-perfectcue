@@ -15,5 +15,13 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Per Røine <per.roine@gmail.com>",
-	"license": "MIT"
+	"license": "MIT",
+	"homepage": "https://github.com/bitfocus/companion-module-dsan-perfectcue#readme",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-dsan-perfectcue/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-dsan-perfectcue.git"
+	}
 }
